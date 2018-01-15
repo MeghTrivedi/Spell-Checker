@@ -1,0 +1,13 @@
+Student Information
+####################
+Megh Trivedi
+0886172
+
+Program Description
+####################
+Programs functionality is to insert Data from an input text file into a Hash Table. Once that is done, there are options to remove and add data to the Hash Table (Dictionary). Third option is to spell check a file - comparing one file with another. When entering the location of the file please do do the following: ./FOLDERNAME/FILENAME.txt. For my collision detection I used a linear probing method. I place the new Key into the next empty cell that is found. Linear probing is a form of open addressing. 
+
+
+Additonal Program  Details
+####################
+Few Problems with removing Data. It does not seem to be able to remove certain words. Most words get removed. 
